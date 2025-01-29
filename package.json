@@ -1,0 +1,29 @@
+{
+    "name": "react-native-responsive-dimention",
+    "version": "1.0.1",
+    "description": "A utility library for responsive design in React Native.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no tests specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native",
+      "responsive",
+      "scaling",
+      "dimensions",
+      "fonts"
+    ],
+    "author": "Babar Bilal",
+    "license": "MIT",
+    "peerDependencies": {
+      "react-native": ">=0.60.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/babarbilal303/react-native-responsive-dimention.git"
+    },
+    "bugs": {
+      "url": "https://github.com/babarbilal303/react-native-responsive-dimention/issues"
+    },
+    "homepage": "https://github.com/babarbilal303/react-native-responsive-dimention#readme"
+  }
