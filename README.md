@@ -1,6 +1,11 @@
+<img src="MAIN.webp" alt="main image">
 
 
 # React Native Responsive Dimention
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/babarbilal303/react-native-responsive-dimention/pulls)
+[![Platform](https://img.shields.io/badge/platform-react--native-lightgrey.svg)](http://facebook.github.io/react-native/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/babarbilal303/react-native-responsive-dimention/blob/master/LICENSE) 
 
 A utility library for creating responsive designs in React Native applications. This package provides functions to scale components, text, and layouts according to different screen sizes and resolutions, ensuring a consistent look across all devices.
 
